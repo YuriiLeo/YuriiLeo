@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, My name is <a href="" target="_blank">Yurii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h2 align="center">I'm Front-end Developer</h2>
+<h2 align="center">I'm Full Stack Developer</h2>
 
 - 🧠 I’m currently learning everything I can get my hands on 
 - 🤝  I'm open to collaborating on interesting projects
