@@ -32,6 +32,3 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h3 align="center">Github Stats</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiLeo&show_icons=true)  
